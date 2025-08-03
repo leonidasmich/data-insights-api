@@ -1,0 +1,8 @@
+Django>=4.2
+djangorestframework
+pandas
+openpyxl
+python-magic
+psycopg2-binary
+drf-yasg
+djangorestframework-simplejwt
