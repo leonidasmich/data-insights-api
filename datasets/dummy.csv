@@ -1,0 +1,6 @@
+order_id,customer_name,product,category,quantity,price,order_date
+1,John Doe,Headphones,Electronics,2,99.99,2023-11-01
+2,Jane Smith,Book A,Books,1,15.50,2023-11-02
+3,Emily Jones,Book B,Books,3,12.00,2023-11-02
+4,John Doe,Monitor,Electronics,1,199.99,2023-11-03
+5,Jane Smith,Pen,Office Supplies,10,1.25,2023-11-03
